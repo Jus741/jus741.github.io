@@ -5,38 +5,11 @@
 ---
 
 **Software Engineer**  
-Versatile software engineer with expertise in full-stack development, machine learning, and cybersecurity. Proven experience in delivering tailored software solutions, managing databases, and implementing security frameworks. Skilled in multiple programming languages and frameworks with a focus on creating efficient, secure, and user-friendly applications.
+Full-stack developer specializing in AI/ML, cybersecurity, and enterprise architecture. Proven track record in delivering scalable solutions across cloud platforms and implementing secure data pipelines.
 
 ---
 
 ## PROFESSIONAL EXPERIENCE
-
-### Freelance
-**Software Engineer**  
-*September 2023 – Present*  
-*Location: Remote*
-
-#### Responsibilities & Achievements:
-- **Software Development:** Designed and maintained applications using PHP, Python, Java, C/C++, and C#, delivering tailored solutions that meet client requirements
-- **Web Development:** Created responsive and user-friendly websites using WordPress and Squarespace, implementing custom solutions with PHP, HTML, CSS, and JavaScript
-- **Database Management:** Implemented and managed SQL and MySQL databases, ensuring data integrity and optimal accessibility
-- **Machine Learning:** Developed predictive models and data preprocessing techniques using Scikit-Learn, Pandas, and Matplotlib
-- **Cybersecurity:** Implemented security frameworks and utilized Kusto Query Language (KQL) for threat detection, enhancing application security throughout the development lifecycle
-
-### Kollaboration
-**Software Implementation Consultant**  
-*August 2024 – September 2024*  
-*Location: Remote*
-
-#### Achievements:
-- **Enhanced website UX/UI**, identifying and implementing improvements that resulted in an estimated **>20% increase** in user engagement
-- **Led platform migration** from WordPress to Squarespace, ensuring data integrity and SEO retention while minimizing downtime
-- **Conducted comprehensive assessments** of client websites, providing actionable recommendations for performance optimization
-- **Collaborated with stakeholders** to customize Squarespace features while maintaining brand consistency
-
----
-
-## PROJECTS & OUTSIDE EXPERIENCE
 
 ### ProgramEarth
 **Software Engineer Fellow**  
@@ -60,9 +33,17 @@ Versatile software engineer with expertise in full-stack development, machine le
 **Software Engineer Fellow**  
 *August 2024 – December 2024*  
 *Location: Remote*
-- Participated in an initiative helping underrepresented communities develop web development skills
+- Collaborated in an initiative helping underrepresented communities develop web development skills
 - Worked on real-world projects for nonprofits and small businesses
 - Developed technical skills while contributing to a more inclusive tech ecosystem
+
+### Kollaboration
+**Software Implementation Consultant**  
+*August 2024 – September 2024*  
+*Location: Remote*
+- Enhanced website UX/UI, identifying and implementing improvements that resulted in an estimated **>20% increase** in user engagement
+- Led platform migration from WordPress to Squarespace, ensuring data integrity and SEO retention while minimizing downtime
+- Conducted comprehensive assessments of client websites, providing actionable recommendations for performance optimization
 
 ### GitHub {All In} Open Source
 **Software Engineer Apprentice**  
@@ -73,45 +54,32 @@ Versatile software engineer with expertise in full-stack development, machine le
 - Gained practical experience in open source development
 
 ### Microsoft KC7 Cybersecurity Hackathon
-**Hackathon Participant, 3rd Place**  
-*February 2023 – March 2023*  
-*Location: Remote*
-- Utilized Kusto Query Language (KQL) for data manipulation in Azure Data Explorer
-- Identified malicious cyber activity in various audit logs
-- Analyzed APT actors' infrastructure and capabilities
-- Applied threat analysis frameworks including the Diamond Model
+**Runner-Up** • *2023*
+- Applied threat analysis using Diamond Model framework
+- Implemented KQL queries for malicious activity detection in Azure
+- Analyzed APT infrastructure through PassiveDNS and audit logs
 
-### Fraud Detection Project
-**Machine Learning Engineer**  
-*August 2023 – September 2023*  
-*Location: Remote*
-- Built predictive models for fraud detection using Python and machine learning libraries
-- Implemented data preprocessing and feature engineering using Pandas and NumPy
-- Utilized Random Forest Classifier and GridSearchCV for model optimization
-- Created visualizations using Matplotlib for result interpretation
+### Fraud Detection ML Project
+**Machine Learning Engineer** • *2023*  
+- Built fraud detection model achieving high precision using Random Forest
+- Engineered features using Python, Pandas, and NumPy
+- Implemented cross-validation and hyperparameter optimization
 
 ---
 
-## EDUCATION
+## EDUCATION & CERTIFICATIONS
 
 **Western Governors University**  
-*Bachelor's Degree in Computer Science*
+*Bachelor of Science Degree in Computer Science*
 - Coursework: Software Development, Data Structures & Algorithms, Network & Security, IT Project Management, Operating Systems, Artificial Intelligence
-- Transferred from Arkansas Tech University
+- Certifications: ITIL Foundation Certified, CompTIA Project+ Certified
 
 ---
 
-## CERTIFICATIONS
-- ITIL Foundation Certified in IT Service Management
-- CompTIA Project+ Certified
+## TECHNICAL SKILLS
 
----
-
-## SKILLS
-
-- **Programming Languages:** C/C++, Java, Python, C#, PHP
-- **Web Technologies:** HTML/CSS, JavaScript, WordPress, Squarespace
-- **Data & Analytics:** SQL, MySQL, Jupyter, Scikit-Learn, Pandas, Matplotlib
-- **Tools & Frameworks:** Git, Adobe Creative Suite, Google Colab
-- **Areas of Expertise:** Machine Learning, Data Science, Fraud Analysis, TCP/IP
-- **Languages:** Japanese (conversational), English (fluent)
+- **Languages:** Python, Java, C/C++, C#, PHP, JavaScript
+- **Cloud & Data:** AWS, GCP, SQL, Docker, Terraform
+- **ML/AI:** Scikit-Learn, Pandas, Matplotlib
+- **Security:** KQL, Threat Analysis, HashiCorp Vault
+- **Other:** Git, CI/CD, Japanese (Fluent)
