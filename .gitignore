@@ -1,1 +1,2 @@
-/artifacts/*.pdf
+/artifacts/*
+!/artifacts/resume.pdf
