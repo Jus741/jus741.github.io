@@ -1,81 +1,117 @@
-# Benedict Minh Phan
+# Justin Lee
 
-Irvine, CA • 949-236-1235 • [benedict.phan@gmail.com](mailto:benedict.phan@gmail.com) • [www.linkedin.com/in/bminhphan/](https://www.linkedin.com/in/bminhphan/)
-
----
-
-**DevOps and Infrastructure Automation Leader**  
-Over a decade of expertise in designing and optimizing cloud architectures, building robust CI/CD pipelines, and implementing scalable infrastructure solutions. Proven experience leading high-impact teams, transitioning complex systems to cloud platforms (especially AWS), and driving continuous improvement through post-mortem analysis and observability. Skilled in managing monitoring stacks, log analysis, and compliance (SOC2, SOX) during major company milestones like IPO preparation.
+[business@just-in.dev](mailto:business@just-in.dev) • [linkedin.com/in/justin-codes/](https://www.linkedin.com/in/justin-codes/)
 
 ---
 
-**Seeking**  
-Leadership role (DevOps Manager, Infrastructure Lead) or Senior IC position (Senior/Staff/Principal Engineer) focused on cloud infrastructure, observability, and enabling high-performing engineering teams.
-Open to onsite, hybrid, or remote positions.
+**Software Engineer**  
+Versatile software engineer with expertise in full-stack development, machine learning, and cybersecurity. Proven experience in delivering tailored software solutions, managing databases, and implementing security frameworks. Skilled in multiple programming languages and frameworks with a focus on creating efficient, secure, and user-friendly applications.
 
 ---
 
 ## PROFESSIONAL EXPERIENCE
 
-### Twilio SendGrid *(Acquired by Twilio in 2019)*  
-**Principal Engineer, DevOps**  
-*2014 – 2023 (9 years)*
+### Freelance
+**Software Engineer**  
+*September 2023 – Present*  
+*Location: Remote*
+
+#### Responsibilities & Achievements:
+- **Software Development:** Designed and maintained applications using PHP, Python, Java, C/C++, and C#, delivering tailored solutions that meet client requirements
+- **Web Development:** Created responsive and user-friendly websites using WordPress and Squarespace, implementing custom solutions with PHP, HTML, CSS, and JavaScript
+- **Database Management:** Implemented and managed SQL and MySQL databases, ensuring data integrity and optimal accessibility
+- **Machine Learning:** Developed predictive models and data preprocessing techniques using Scikit-Learn, Pandas, and Matplotlib
+- **Cybersecurity:** Implemented security frameworks and utilized Kusto Query Language (KQL) for threat detection, enhancing application security throughout the development lifecycle
+
+### Kollaboration
+**Software Implementation Consultant**  
+*August 2024 – September 2024*  
 *Location: Remote*
 
 #### Achievements:
-- **Architected and scaled Splunk** to handle **2PB+ of log data** across hybrid environments, achieving **99.99% uptime** for observability pipelines, which ensured uninterrupted monitoring of critical services and enabled proactive issue detection with a small team.
-- **Secured buy-in for a new observability framework**, integrating it into the combined One Twilio platform, resulting in more streamlined and effective monitoring across services, and unifying observability across business units, including **Twilio Classic, SendGrid, and Segment**.
-- **Spearheaded the GDPR compliance initiative on logging**, ensuring alignment with **GDPR regulations** and safeguarding customer data, enabling the company to operate within the European market while meeting stringent data privacy standards.
-- **Played a pivotal role in IPO preparation**, ensuring **SOC2 and SOX compliance** alignment and performing critical audits that successfully met compliance requirements, supporting SendGrid's successful IPO.
-- **Transitioned on-call ownership to developers**, fostering a **proactive incident response culture**, which led to a **50% reduction in mean time to resolution (MTTR)** and significantly improved **team morale** and **system reliability**
-- **Led the migration from Graphite to Prometheus and Grafana**, modernizing the observability stack and **improving performance**, which **reduced dashboard latency by 50%** and enhanced real-time monitoring capabilities and insights, improving reliability across critical services.
-- **Redesigned SendGrid’s technical interview process**, successfully recruiting top engineering talent, resulting in a **increase in team productivity** and a stronger technical foundation for the engineering team.
+- **Enhanced website UX/UI**, identifying and implementing improvements that resulted in an estimated **>20% increase** in user engagement
+- **Led platform migration** from WordPress to Squarespace, ensuring data integrity and SEO retention while minimizing downtime
+- **Conducted comprehensive assessments** of client websites, providing actionable recommendations for performance optimization
+- **Collaborated with stakeholders** to customize Squarespace features while maintaining brand consistency
 
-#### Responsibilities:
-- **Led daily stand-ups, weekly cross-functional meetings, and quarterly planning sessions** with directors and VPs, while also managing **observability team roadmaps** to align with business goals.
-- **Facilitated cross-team post-mortems**, driving continuous improvement initiatives that reduced operational toil and enhanced incident response processes.
-- **Built and nurtured strong vendor relationships** to ensure seamless integration and smooth operation of tools and services.
-- **Deployed and managed Kubernetes-based monitoring stacks**, improving scalability and observability for critical services.
-- **Managed thousands of servers using Chef**, including **bare metal** and **virtualized environments**, ensuring environment consistency and seamless infrastructure operations.
+---
 
-### OneScreen  
-**DevOps Engineer & Infrastructure Lead**  
-*2011 – 2014 (3 years)*
-*Location: Onsite*
+## PROJECTS & OUTSIDE EXPERIENCE
 
-#### Achievements:
-- **Successfully migrated the entire infrastructure from colocation to AWS**, optimizing performance and cost efficiency vs headcount.
-- **Developed CI/CD pipelines using Jenkins** to automate and streamline the software development and deployment process.
-- **Transitioned infrastructure management from Puppet to Chef**, and later implemented **image-based deployments**, enhancing automation and streamlining infrastructure management.
-- **Built and led the operations team from the ground up**, defining team structure, hiring key engineers, and establishing foundational DevOps practices to scale operations effectively.
+### ProgramEarth
+**Software Engineer Fellow**  
+*March 2025 – Present*  
+*Location: Remote*
+- Participated in a transition program bridging bootcamp education to professional software engineering roles
+- Led development of an environmental monitoring system architecture focusing on data sovereignty and scalability:
+  - **Data Sources:** Integrated IoT environmental sensors, government water APIs, and Meta Canopy Map/Google Earth Engine data
+  - **Data Pipeline:** Implemented secure data flow using Palo Alto Networks, Oracle Database, and containerized microservices
+  - **Cloud Infrastructure:** Architected multi-cloud solution utilizing AWS Lambda, S3 Data Lake, and GCP BigQuery Analytics
+  - **Integration Layer:** Developed API Gateway with robust data transformation and privacy controls
+  - **Visualization:** Created desktop mapping interface with Twilio SMS notification system
+- Contributed to enterprise-grade development practices:
+  - Managed project lifecycle using GitHub Projects, Issues, and Wiki documentation
+  - Implemented CI/CD workflows with GitHub Actions and Heroku
+  - Enhanced code quality through CodeQL security scanning and Snyk vulnerability testing
+  - Utilized HashiCorp Vault for secrets management and secure configuration
+- **Technologies:** AWS (Lambda, S3), GCP (Earth Engine, BigQuery), Docker, Terraform, Oracle DB, GitHub Enterprise Stack, Postman, Twilio, HashiCorp Vault
 
-#### Responsibilities:
-- **Designed architecture for encoding, API, and video playback systems on AWS**, utilizing EC2, S3, CloudFront, and ELB, while also beta testing **Elastic Transcoder** to enhance video processing capabilities.
-- **Led the technical strategy and operations of the DevOps team**, aligning efforts with company objectives.
+### Hack the Hood: Build
+**Software Engineer Fellow**  
+*August 2024 – December 2024*  
+*Location: Remote*
+- Participated in an initiative helping underrepresented communities develop web development skills
+- Worked on real-world projects for nonprofits and small businesses
+- Developed technical skills while contributing to a more inclusive tech ecosystem
 
-### Arvan  
-**Manufacturing Engineer**  
-*2007 – 2010 (3 years)*
-*Location: Onsite*
-- Manufacturing components for the Boeing 787, including winglets and bus bars.
+### GitHub {All In} Open Source
+**Software Engineer Apprentice**  
+*February 2023 – April 2023*  
+*Location: Remote*
+- Participated in open source education and training program
+- Collaborated with underrepresented tech students on various projects
+- Gained practical experience in open source development
+
+### Microsoft KC7 Cybersecurity Hackathon
+**Hackathon Participant, 3rd Place**  
+*February 2023 – March 2023*  
+*Location: Remote*
+- Utilized Kusto Query Language (KQL) for data manipulation in Azure Data Explorer
+- Identified malicious cyber activity in various audit logs
+- Analyzed APT actors' infrastructure and capabilities
+- Applied threat analysis frameworks including the Diamond Model
+
+### Fraud Detection Project
+**Machine Learning Engineer**  
+*August 2023 – September 2023*  
+*Location: Remote*
+- Built predictive models for fraud detection using Python and machine learning libraries
+- Implemented data preprocessing and feature engineering using Pandas and NumPy
+- Utilized Random Forest Classifier and GridSearchCV for model optimization
+- Created visualizations using Matplotlib for result interpretation
 
 ---
 
 ## EDUCATION
 
-**California State Polytechnic University, Pomona**  
-*Bachelor of Science in Computer Science, 2008*
+**Western Governors University**  
+*Bachelor's Degree in Computer Science*
+- Coursework: Software Development, Data Structures & Algorithms, Network & Security, IT Project Management, Operating Systems, Artificial Intelligence
+- Transferred from Arkansas Tech University
+
+---
+
+## CERTIFICATIONS
+- ITIL Foundation Certified in IT Service Management
+- CompTIA Project+ Certified
 
 ---
 
 ## SKILLS
 
-- **Cloud & Infrastructure:** AWS, Kubernetes, Docker, Terraform, Data Centers
-- **Infrastructure Automation:** Chef, Puppet, Jenkins, Packer.io, ArgoCD
-- **Observability & Monitoring:** Prometheus, Grafana, Splunk, DataDog, Thanos
-- **Programming Languages:** Python, Bash, Ruby, Golang
-- **Systems:** Linux (RHEL, Debian, Ubuntu)
-- **Web Servers:** Nginx, Apache2
-- **Caching & Messaging:** Redis, RabbitMQ, Memcached
-- **Compliance & Governance:** SOC2, SOX, GDPR
-- **Leadership Capabilities:** Team Management, Hiring, Mentoring, Cross-functional Collaboration, Roadmap Planning, On-call Rotation Management
+- **Programming Languages:** C/C++, Java, Python, C#, PHP
+- **Web Technologies:** HTML/CSS, JavaScript, WordPress, Squarespace
+- **Data & Analytics:** SQL, MySQL, Jupyter, Scikit-Learn, Pandas, Matplotlib
+- **Tools & Frameworks:** Git, Adobe Creative Suite, Google Colab
+- **Areas of Expertise:** Machine Learning, Data Science, Fraud Analysis, TCP/IP
+- **Languages:** Japanese (conversational), English (fluent)
