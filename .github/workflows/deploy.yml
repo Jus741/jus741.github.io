@@ -24,6 +24,11 @@ jobs:
         
       - name: Generate Resume
         run: ./generate.sh
+
+      - name: Copy files to root
+        run: |
+          cp artifacts/resume.pdf resume.pdf
+          cp artifacts/index.html resume.html
         
       - name: Setup Pages
         uses: actions/configure-pages@v5
